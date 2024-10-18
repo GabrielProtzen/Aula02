@@ -1,0 +1,21 @@
+{
+    "name": "daoo/aula02",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Daoo\\Aula02\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aluno",
+            "email": "aluno@example.com"
+        }
+    ],
+    "require": {
+        "brandonwamboldt/utilphp": "^1.1"
+    },
+    "require-dev": {
+        "psy/psysh": "^0.12.4"
+    }
+}
